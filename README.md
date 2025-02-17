@@ -9,6 +9,7 @@ Titanic Survival Prediction App
 Python, Streamlit
 Scikit-learn, PyTorch
 Pandas, NumPy
+
 Titanic Survival Prediction App (English)
 This Streamlit application predicts whether a Titanic passenger would have survived, using various machine learning models such as Logistic Regression, Decision Tree, Random Forest, SVM, and MLP. The user can select a model, train it with Titanic data, and test new predictions.
 

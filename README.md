@@ -5,8 +5,8 @@
 "Κλείσιμο Εφαρμογής" για πλήρη τερματισμό του Streamlit.
 
 Τεχνολογίες:
-Python, Streamlit
-Scikit-learn, PyTorch
+Python, Streamlit,
+Scikit-learn, PyTorch,
 Pandas, NumPy
 
 
@@ -17,6 +17,6 @@ The app includes two main buttons:
 "Close Application" to fully terminate Streamlit.
 
 Technologies:
-Python, Streamlit
-Scikit-learn, PyTorch
+Python, Streamlit,
+Scikit-learn, PyTorch,
 Pandas, NumPy

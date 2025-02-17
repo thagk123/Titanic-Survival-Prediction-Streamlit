@@ -5,6 +5,7 @@ Titanic Survival Prediction App
 
 "Επαναφορά Εφαρμογής" για επανεκκίνηση χωρίς τερματισμό.
 "Κλείσιμο Εφαρμογής" για πλήρη τερματισμό του Streamlit.
+
 Τεχνολογίες
 Python, Streamlit
 Scikit-learn, PyTorch
